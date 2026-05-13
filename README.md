@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Arte Som - E-commerce de Cestas
 
-# Run and deploy your AI Studio app
+Este é o projeto de e-commerce e catálogo de produtos desenvolvido para a loja Arte Som, especializada em cestas personalizadas, café da manhã e presentes inesquecíveis. O sistema conta com um painel administrativo completo (Dashboard, Produtos, Categorias, Pedidos e Configurações da Loja), permitindo gerenciar todo o fluxo de vendas e catálogo diretamente. A parte pública foca em uma experiência fluida de compra, com envio dos pedidos via WhatsApp.
 
-This contains everything you need to run your app locally.
+O projeto foi construído utilizando React, TailwindCSS, e Supabase para o backend (banco de dados e armazenamento).
 
-View your app in AI Studio: https://ai.studio/apps/6f719788-0bae-45b4-bec5-a62d730e7c81
+## Créditos e Autoria
 
-## Run Locally
+**Desenvolvido por jKayzz Dev**
+*   Instagram: [@_xkayky.s](https://www.instagram.com/_xkayky.s/)
 
-**Prerequisites:**  Node.js
+## Licença e Direitos Autorais
 
+© 2024-2026 jKayzz Dev. Todos os direitos reservados.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+A cópia, distribuição, reprodução ou modificação não autorizada deste código e design é estritamente proibida e será considerada plágio intelectual. **Qualquer uso, cópia ou distribuição sem os devidos créditos e autorização por escrito do autor (jKayzz Dev) sujeita o infrator a ações e processos judiciais nos termos da lei de direitos autorais.**
